@@ -1,0 +1,1 @@
+import r from"react";import t from"react-bootstrap/Spinner";var e=function(){return r.createElement(r.Fragment,null,Array.from({length:3}).map((function(e,n){return r.createElement(t,{key:n,animation:"grow",variant:"primary",size:"sm"})})))};export{e as Preloader};

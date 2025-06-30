@@ -1,0 +1,1 @@
+"use strict";var r=require("react"),e=require("react-bootstrap/Spinner");exports.Preloader=function(){return r.createElement(r.Fragment,null,Array.from({length:3}).map((function(t,n){return r.createElement(e,{key:n,animation:"grow",variant:"primary",size:"sm"})})))};
